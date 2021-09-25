@@ -1,2 +1,2 @@
 # Implementation of Deep Q learning algorithm for game application.
-An implementation of Deep Q learning with Pytorch with the combination of game theory for Pyrat - a 1vs1 game created by Telecom Bretagne for learning purpose.
+An implementation of Deep Q learning with Pytorch with the combination of game theory for Pyrat - a 1vs1 game created by Telecom Bretagne for learning purpose. Win rate: 82% vs defaut machine greedy algorithm.
