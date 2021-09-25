@@ -1,2 +1,2 @@
-# Structure-from-motion
-An implementation from scratch of the structure from motion pipeline for 3D reconstruction. The outline of codes is from the course CS231A of Stanford University.
+# Implementation of Deep Q learning algorithm for game application.
+An implementation of Deep Q learning with Pytorch with the combination of game theory for Pyrat - a 1vs1 game created by Telecom Bretage for learning purpose.
